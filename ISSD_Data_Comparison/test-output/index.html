@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-ISSDAutomationSuite">
+              <span class="suite-name border-failed">ISSDAutomationSuite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-ISSDAutomationSuite">
+                    <span>C:\Pic\oxygen_WS\ISSD_Data_Comparison\testng_RT.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-ISSDAutomationSuite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-ISSDAutomationSuite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-ISSDAutomationSuite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-ISSDAutomationSuite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-ISSDAutomationSuite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-ISSDAutomationSuite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">3 methods, 1 failed,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-ISSDAutomationSuite" class="hide-methods failed suite-ISSDAutomationSuite"> (hide)</a> <!-- hide-methods failed suite-ISSDAutomationSuite -->
+                      <a href="#" panel-name="suite-ISSDAutomationSuite" class="show-methods failed suite-ISSDAutomationSuite"> (show)</a> <!-- show-methods failed suite-ISSDAutomationSuite -->
+                    </span>
+                    <div class="method-list-content failed suite-ISSDAutomationSuite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ISSDAutomationSuite" title="AutomationTests.Manf_page1_BUDev_Test" hash-for-method="menuSelect(Rx Brands)">menuSelect(Rx Brands)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-ISSDAutomationSuite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-ISSDAutomationSuite" class="hide-methods passed suite-ISSDAutomationSuite"> (hide)</a> <!-- hide-methods passed suite-ISSDAutomationSuite -->
+                      <a href="#" panel-name="suite-ISSDAutomationSuite" class="show-methods passed suite-ISSDAutomationSuite"> (show)</a> <!-- show-methods passed suite-ISSDAutomationSuite -->
+                    </span>
+                    <div class="method-list-content passed suite-ISSDAutomationSuite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ISSDAutomationSuite" title="AutomationTests.Manf_page1_BUDev_Test" hash-for-method="OpenAutomationTest_env(chrome, http://budev.imsbi.rxcorp.com/)">OpenAutomationTest_env(chrome, http://budev.imsbi.rxcorp.com/)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-ISSDAutomationSuite" title="AutomationTests.Manf_page1_BUDev_Test" hash-for-method="login(IntDashboardUser2@uk.imshealth.com, ComplexPass1, Sales1, Rx Brands)">login(IntDashboardUser2@uk.imshealth.com, ComplexPass1, Sales1, Rx Brands)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-ISSDAutomationSuite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-ISSDAutomationSuite" class="panel ISSDAutomationSuite">
+          <div class="suite-ISSDAutomationSuite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">AutomationTests.Manf_page1_BUDev_Test</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="menuSelect(Rx Brands)">
+                  </a> <!-- menuSelect(Rx Brands) -->
+                  <span class="method-name">menuSelect</span>
+                  <span class="parameters">(Rx Brands)</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=60.0.3112.101)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;unknown&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;BLRW3004177&apos;, ip: &apos;10.44.129.68&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_25&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8), userDataDir=C:\Users\JMUKHE~1\AppData\Local\Temp\scoped_dir13564_30589}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=60.0.3112.101, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 13922735a8e0e1f2f40a5faaa9493d03
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:641)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:275)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at PageOModel.GM_First_Page.updateFilters(GM_First_Page.java:271)
+	at AutomationTests.Manf_page1_BUDev_Test.GMdrillDownPages(Manf_page1_BUDev_Test.java:202)
+	at AutomationTests.Manf_page1_BUDev_Test.menuSelect(Manf_page1_BUDev_Test.java:117)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-ISSDAutomationSuite-class-failed -->
+          <div class="suite-ISSDAutomationSuite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">AutomationTests.Manf_page1_BUDev_Test</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="OpenAutomationTest_env(chrome, http://budev.imsbi.rxcorp.com/)">
+                  </a> <!-- OpenAutomationTest_env(chrome, http://budev.imsbi.rxcorp.com/) -->
+                  <span class="method-name">OpenAutomationTest_env</span>
+                  <span class="parameters">(chrome, http://budev.imsbi.rxcorp.com/)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="login(IntDashboardUser2@uk.imshealth.com, ComplexPass1, Sales1, Rx Brands)">
+                  </a> <!-- login(IntDashboardUser2@uk.imshealth.com, ComplexPass1, Sales1, Rx Brands) -->
+                  <span class="method-name">login</span>
+                  <span class="parameters">(IntDashboardUser2@uk.imshealth.com, ComplexPass1, Sales1, Rx Brands)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-ISSDAutomationSuite-class-passed -->
+        </div> <!-- panel ISSDAutomationSuite -->
+        <div panel-name="test-xml-ISSDAutomationSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Pic\oxygen_WS\ISSD_Data_Comparison\testng_RT.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;2&quot; guice-stage=&quot;DEVELOPMENT&quot; name=&quot;ISSDAutomationSuite&quot; parallel=&quot;tests&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;commonLibs.automation.CustomLogger&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test name=&quot;Test_AT&quot; group-by-instances=&quot;true&quot;&gt;
+    &lt;parameter name=&quot;password&quot; value=&quot;ComplexPass1&quot;/&gt;
+    &lt;parameter name=&quot;sheetName&quot; value=&quot;Sales1&quot;/&gt;
+    &lt;parameter name=&quot;modulePages&quot; value=&quot;Rx Brands&quot;/&gt;
+    &lt;parameter name=&quot;RTurl&quot; value=&quot;http://budev.imsbi.rxcorp.com/&quot;/&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;parameter name=&quot;ATurl&quot; value=&quot;https://uat.imsbi.com/clients/globaldashboard/&quot;/&gt;
+    &lt;parameter name=&quot;password1&quot; value=&quot;Password123&quot;/&gt;
+    &lt;parameter name=&quot;username1&quot; value=&quot;IMITestUser1011@uk.imshealth.com&quot;/&gt;
+    &lt;parameter name=&quot;username&quot; value=&quot;IntDashboardUser2@uk.imshealth.com&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;AutomationTests.Manf_page1_BUDev_Test&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Test_AT --&gt;
+&lt;/suite&gt; &lt;!-- ISSDAutomationSuite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-ISSDAutomationSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for ISSDAutomationSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Test_AT (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-ISSDAutomationSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for ISSDAutomationSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-ISSDAutomationSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for ISSDAutomationSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_ISSDAutomationSuite');
+function tableData_ISSDAutomationSuite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(3);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'login')
+data.setCell(0, 2, 'AutomationTests.Manf_page1_BUDev_Test')
+data.setCell(0, 3, 116716);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'menuSelect')
+data.setCell(1, 2, 'AutomationTests.Manf_page1_BUDev_Test')
+data.setCell(1, 3, 61121);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'OpenAutomationTest_env')
+data.setCell(2, 2, 'AutomationTests.Manf_page1_BUDev_Test')
+data.setCell(2, 3, 8272);
+window.suiteTableData['ISSDAutomationSuite']= { tableData: data, tableDiv: 'times-div-ISSDAutomationSuite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 3 minutes</span>
+              <div id="times-div-ISSDAutomationSuite">
+              </div> <!-- times-div-ISSDAutomationSuite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-ISSDAutomationSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for ISSDAutomationSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">OpenAutomationTest_env(chrome, http://budev.imsbi.rxcorp.com/)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br> <img src=../screenshots/PASS/OpenAutomationTest_env/AutomationTests.Manf_page1_BUDev_Test/2017-08-28-12-01screenshot6785575975174638380.png /> <br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">login(IntDashboardUser2@uk.imshealth.com, ComplexPass1, Sales1, Rx Brands)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br> <img src=../screenshots/PASS/login/AutomationTests.Manf_page1_BUDev_Test/2017-08-28-12-03screenshot403730552576714635.png /> <br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">menuSelect(Rx Brands)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br> <img src=../screenshots/FAIL/menuSelect/AutomationTests.Manf_page1_BUDev_Test/2017-08-28-12-04screenshot8554004339033902072.png /> <br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-ISSDAutomationSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-ISSDAutomationSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">AutomationTests.Manf_page1_BUDev_Test</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeSetUp</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">OpenAutomationTest_env(chrome, http://budev.imsbi.rxcorp.com/)</span>
+                <span class="method-start">38 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">login(IntDashboardUser2@uk.imshealth.com, ComplexPass1, Sales1, Rx Brands)</span>
+                <span class="method-start">8784 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">menuSelect(Rx Brands)</span>
+                <span class="method-start">125939 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">AfterRun</span>
+                <span class="method-start">187533 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

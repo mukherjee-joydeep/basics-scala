@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [ISSDAutomationSuite]" parallel="tests">
+  <listeners>
+    <listener class-name="commonLibs.automation.CustomLogger"/>
+  </listeners>
+  <test name="Test_AT(failed)" parallel="tests">
+    <parameter name="password" value="ComplexPass1"/>
+    <parameter name="sheetName" value="Sales1"/>
+    <parameter name="modulePages" value="Rx Brands"/>
+    <parameter name="RTurl" value="http://budev.imsbi.rxcorp.com/"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="ATurl" value="https://uat.imsbi.com/clients/globaldashboard/"/>
+    <parameter name="password1" value="Password123"/>
+    <parameter name="username1" value="IMITestUser1011@uk.imshealth.com"/>
+    <parameter name="username" value="IntDashboardUser2@uk.imshealth.com"/>
+    <classes>
+      <class name="AutomationTests.Manf_page1_BUDev_Test">
+        <methods>
+          <include name="menuSelect" invocation-numbers="0"/>
+          <include name="OpenAutomationTest_env"/>
+          <include name="login"/>
+          <include name="beforeSetUp"/>
+          <include name="AfterRun"/>
+        </methods>
+      </class> <!-- AutomationTests.Manf_page1_BUDev_Test -->
+    </classes>
+  </test> <!-- Test_AT(failed) -->
+</suite> <!-- Failed suite [ISSDAutomationSuite] -->

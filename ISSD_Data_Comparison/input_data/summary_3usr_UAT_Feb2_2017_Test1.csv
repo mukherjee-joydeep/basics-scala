@@ -1,0 +1,210 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+ISSD-Open URL-Alliance,1,495,495,495,0.00,0.00%,2.0,16.07,8146.0
+ISSD-Open URL-Pheonix,1,514,514,514,0.00,0.00%,1.9,15.48,8146.0
+ISSD-Open URL,1,496,496,496,0.00,0.00%,2.0,16.04,8146.0
+ISSD-DC page-Alliance,1,723,723,723,0.00,0.00%,1.4,64.18,47519.0
+ISSD-DC page,1,4552,4552,4552,0.00,0.00%,.2,386.52,1801656.0
+ISSD-DC page-Pheonix,1,4570,4570,4570,0.00,0.00%,.2,384.92,1801314.0
+ISSD-Dashboard-Pheonix,1,3684,3684,3684,0.00,100.00%,.3,594.20,2241585.0
+ISSD-Dashboard-Alliance,1,7631,7631,7631,0.00,100.00%,.1,7.74,60450.0
+ISSD-Dashboard,1,45041,45041,45041,0.00,0.00%,.0,52.52,2422289.0
+RxB first page-default-Pheonix,1,62727,62727,62727,0.00,0.00%,.0,6.48,416462.0
+RxB first page-default-Alliance,1,75234,75234,75234,0.00,0.00%,.0,8.91,686405.0
+RxBrand first page - default,1,48377,48377,48377,0.00,0.00%,.0,13.15,651616.0
+RxB first page-SO sorting-Pheonix,1,57020,57020,57020,0.00,0.00%,.0,9.00,525455.0
+RxB first page-Time Period-Month-Pheonix,1,388,388,388,0.00,0.00%,2.6,1326.11,526881.0
+RxB first page-subSegment-Primary-Specialist-Pheonix,1,7710,7710,7710,0.00,0.00%,.1,66.72,526764.0
+RxB first page-TIme Period-Prev Month-Pheonix,1,340,340,340,0.00,0.00%,2.9,1512.77,526687.0
+RxB first page-Specialty status-Specialty-Pheonix,1,356,356,356,0.00,0.00%,2.8,1444.89,526725.0
+RxB first page-Time Period-Month-Alliance,1,72568,72568,72568,0.00,0.00%,.0,6.80,505452.0
+SO sorting - RxBrands first page,1,72055,72055,72055,0.00,0.00%,.0,6.89,508243.0
+RxB first page-TimePeriod-QTR-Pheonix,1,33578,33578,33578,0.00,0.00%,.0,10.96,376753.0
+Time Period - Month- Rxbrand first page,1,530,530,530,0.00,0.00%,1.9,939.00,509614.0
+RxB first page-SO sorting-Desc-Pheonix,1,384,384,384,0.00,0.00%,2.6,954.88,375474.0
+RxB first page-Acute-Chronic-Pheonix,1,315,315,315,0.00,0.00%,3.2,1168.28,376840.0
+Time Period-Prev Month - RxBrands first page,1,12062,12062,12062,0.00,0.00%,.1,41.60,513827.0
+Sub-segment-specialist-Rxbrands first page,1,360,360,360,0.00,0.00%,2.8,1394.13,513933.0
+sub-segment-speciality-Rxbrand first page,1,419,419,419,0.00,0.00%,2.4,1197.65,513859.0
+RxB first page-TIme Period-Year Ago-Pheonix,1,15099,15099,15099,0.00,0.00%,.1,24.27,375186.0
+RxBrands first page -Pheonix,1,177917,177917,177917,0.00,0.00%,.0,24.98,4553227.0
+RxB first page-TimePeriod-YTD-Alliance,1,46759,46759,46759,0.00,0.00%,.0,15.26,730839.0
+RxB first page-TIme Period-Prev Month-Alliance,1,14346,14346,14346,0.00,0.00%,.1,34.71,509889.0
+RxB first page-SO sorting-Alliance-Alliance,1,381,381,381,0.00,0.00%,2.6,1292.24,504161.0
+RxB first page-subSegment-Primary-Specialist-Alliance,2,421,387,456,34.50,0.00%,1.3,655.72,509973.0
+SO sorting-Rxbrand first page - Desc,1,36141,36141,36141,0.00,0.00%,.0,18.31,677593.0
+RxB first page,1,169944,169944,169944,0.00,0.00%,.0,22.32,3888685.0
+RxB brand drill down-default-Pheonix,1,38333,38333,38333,0.00,0.00%,.0,8.99,353017.0
+RxB first page-SO sorting-Desc-Alliance,1,6966,6966,6966,0.00,0.00%,.1,102.49,731095.0
+RxB first page-Specialty status-Specialty-Alliance,1,396,396,396,0.00,0.00%,2.5,1257.38,509871.0
+RxB first page-Alliance,1,217493,217493,217493,0.00,0.00%,.0,23.17,5197658.0
+RxB brand drill down-SO sorting-Pheonix,1,32107,32107,32107,0.00,0.00%,.0,13.39,440222.0
+RxB brand drill down-Time Period-Month-Pheonix,1,568,568,568,0.00,0.00%,1.8,759.19,441567.0
+RxB drill down-default,1,44783,44783,44783,0.00,0.00%,.0,8.85,405889.0
+RxB brand drill down-TImePeriod-Prev Month-Pheonix,1,7499,7499,7499,0.00,0.00%,.1,57.49,441458.0
+RxB brand drill down-subSegment-Acute-Pheonix,1,321,321,321,0.00,0.00%,3.1,1344.13,441820.0
+RxB brand drill down-Primary-Pheonix,1,327,327,327,0.00,0.00%,3.1,1318.29,441426.0
+RxB brand drill down-Sepcialist-Non-Speciality-Pheonix,1,318,318,318,0.00,0.00%,3.1,1355.66,441445.0
+RxB brand drill down-subSegment-Acute-All-Pheonix,1,390,390,390,0.00,0.00%,2.6,1105.53,441506.0
+RxB brand drill down-default-Alliance,1,42628,42628,42628,0.00,0.00%,.0,8.08,352635.0
+RxB brand drill down-SO sorting-Desc-Pheonix,1,4552,4552,4552,0.00,0.00%,.2,75.31,351033.0
+Go back to RxB first -Pheonix,1,356,356,356,0.00,0.00%,2.8,1035.38,377442.0
+Brand drill down - Pheonix,1,84771,84771,84771,0.00,0.00%,.0,47.95,4170936.0
+ISSD-RxBrands-Pheonix,1,262688,262688,262688,0.00,0.00%,.0,32.40,8724163.0
+RxB drill down - SO sorting,1,35830,35830,35830,0.00,0.00%,.0,11.99,439944.0
+Time Period - QTR - RxB drill down,1,408,408,408,0.00,0.00%,2.5,1055.54,440995.0
+GM first page - default - pheonix,1,37045,37045,37045,0.00,0.00%,.0,20.85,790778.0
+RxB brand drill down-SO sorting-Alliance,1,38602,38602,38602,0.00,0.00%,.0,8.81,348395.0
+RxB brand drill down-Time Period-QTR-Alliance,1,324,324,324,0.00,0.00%,3.1,1053.12,349401.0
+Time Period - Year ago - RxB drill down,1,9722,9722,9722,0.00,0.00%,.1,43.95,437562.0
+Brands drill down,1,90743,90743,90743,0.00,0.00%,.0,18.54,1724390.0
+ISSD-RxBrands ,1,260687,260687,260687,0.00,0.00%,.0,21.00,5613075.0
+RxB brand drill down-TImePeriod-Year Ago-Alliance,1,21884,21884,21884,0.00,0.00%,.0,15.55,348413.0
+RxB brand drill down-subSegment-Chronic-Alliance,1,553,553,553,0.00,0.00%,1.8,615.34,348448.0
+RxB brand drill down-Sepcialist-Alliance,1,428,428,428,0.00,0.00%,2.3,794.82,348347.0
+GM first page - SO sorting - pheonix,1,27342,27342,27342,0.00,0.00%,.0,28.57,799815.0
+GM first page - default -Celesio,1,30144,30144,30144,0.00,0.00%,.0,33.84,1044674.0
+RxB brand drill down-SO sorting-Desc-Alliance,1,10082,10082,10082,0.00,0.00%,.1,33.70,347907.0
+Go back to RxB first page-Alliance,1,432,432,432,0.00,0.00%,2.3,1653.48,731447.0
+Brand drill down-Alliance,1,114933,114933,114933,0.00,0.00%,.0,26.95,3174993.0
+ISSD-RxBrands-Alliance,1,332426,332426,332426,0.00,0.00%,.0,24.45,8372651.0
+GM first page - Time Period-Month-pheonix,1,43945,43945,43945,0.00,0.00%,.0,17.14,771268.0
+GM first page - default - alliance,1,38603,38603,38603,0.00,0.00%,.0,30.51,1205961.0
+GM first page - SO sorting - Celesio,1,40864,40864,40864,0.00,0.00%,.0,25.99,1087650.0
+GM first page - Time Period-Prev Month-pheonix,1,3184,3184,3184,0.00,0.00%,.3,236.83,772157.0
+GM first page - Time Period-Month-Celesio,1,461,461,461,0.00,0.00%,2.2,2306.84,1088977.0
+GM first page - Time Period-Prev Month-celesio,1,7313,7313,7313,0.00,0.00%,.1,145.93,1092818.0
+GM first page - SO sorting-Desc-pheonix,1,14599,14599,14599,0.00,0.00%,.1,47.95,716819.0
+GM first page - Primary-Specialist-pheonix,1,460,460,460,0.00,0.00%,2.2,1524.64,718167.0
+GM first page - SO sorting-Desc-Celesio,1,26271,26271,26271,0.00,0.00%,.0,37.01,995558.0
+GM first page - SO sorting - alliance,1,35719,35719,35719,0.00,0.00%,.0,32.70,1195939.0
+GM first page - Primary-Specialist-celesio,1,592,592,592,0.00,0.00%,1.7,1644.45,996876.0
+GM first page - Time Period-Month-Alliance,1,580,580,580,0.00,0.00%,1.7,2015.90,1197282.0
+GM first page - Time period-QTR-celesio,1,447,447,447,0.00,0.00%,2.2,2177.84,996857.0
+GM first page - Acute-Chronic-celesio,1,433,433,433,0.00,0.00%,2.3,2248.12,996800.0
+GM first page - Time Period-Prev Month-alliance,1,5472,5472,5472,0.00,0.00%,.2,214.15,1199958.0
+GM first page - TIme Period-Year Ago-Celesio,1,5424,5424,5424,0.00,0.00%,.2,178.85,993359.0
+GM first page - TIme Period-YTD-Celesio,1,537,537,537,0.00,0.00%,1.9,1806.54,993392.0
+GM first page - celesio,1,112486,112486,112486,0.00,0.00%,.0,58.34,10286961.0
+GM first page - Time period-QTR-pheonix,1,30327,30327,30327,0.00,0.00%,.0,23.13,718210.0
+GM first page - Acute-Chronic-pheonix,1,389,389,389,0.00,0.00%,2.6,1803.05,718218.0
+GM first page - TIme Period-Year Ago-pheonix,1,3384,3384,3384,0.00,0.00%,.3,206.90,716947.0
+GM molecule drill down - default-Celesio,1,15047,15047,15047,0.00,0.00%,.1,39.81,613435.0
+GM first page - SO sorting-Desc-alliance,1,17409,17409,17409,0.00,0.00%,.1,58.57,1044085.0
+GM first page - Primary-Specialist-alliance,1,529,529,529,0.00,0.00%,1.9,1929.71,1045318.0
+GM first page - Time period-QTR-alliance,1,437,437,437,0.00,0.00%,2.3,2336.11,1045383.0
+GM first page - Acute-Chronic-alliance,1,383,383,383,0.00,0.00%,2.6,2665.43,1045361.0
+GM first page - TIme Period-Year Ago-alliance,1,5733,5733,5733,0.00,0.00%,.2,177.80,1043790.0
+GM first page - TIme Period-YTD-alliance,1,421,421,421,0.00,0.00%,2.4,2421.34,1043850.0
+GM first page - Alliance,1,105286,105286,105286,0.00,0.00%,.0,65.98,11066927.0
+GM first page - TIme Period-YTD-pheonix,1,21120,21120,21120,0.00,0.00%,.0,34.09,737212.0
+GM first page -pheonix,1,181795,181795,181795,0.00,0.00%,.0,30.49,7459591.0
+GM molecule drill down - SO sorting-Celesio,1,12565,12565,12565,0.00,0.00%,.1,47.57,612022.0
+GM molecule drill down - TIme Period - Month-celesio,1,319,319,319,0.00,0.00%,3.1,1877.95,613444.0
+GM molecule drill down - default-alliance,1,8536,8536,8536,0.00,0.00%,.1,77.36,676180.0
+GM molecule drill down - TIme Period-Prev Month - celesio,1,5193,5193,5193,0.00,0.00%,.2,116.84,621299.0
+GM molecule drill down - Acute-Chronic-all-celesio,1,345,345,345,0.00,0.00%,2.9,1758.66,621300.0
+GM molecule drill down - celesio,1,33469,33469,33469,0.00,0.00%,.0,89.71,3081500.0
+GM molecule drill down - default-pheonix,1,14190,14190,14190,0.00,0.00%,.1,31.92,463854.0
+GM molecule drill down - SO sorting-alliance,1,10463,10463,10463,0.00,0.00%,.1,62.78,672655.0
+GM molecule drill down - TIme Period - Month-alliance,1,336,336,336,0.00,0.00%,3.0,1959.07,674046.0
+GM molecule drill down - TIme Period-Prev Month - alliance,1,7723,7723,7723,0.00,0.00%,.1,86.10,680877.0
+GM molecule drill down - Acute-Chronic-all-alliance,1,428,428,428,0.00,0.00%,2.3,1553.30,680766.0
+GM molecule drill down - alliance,1,27486,27486,27486,0.00,0.00%,.0,119.84,3384524.0
+GM molecule drill down - SO sorting - pheonix,1,13668,13668,13668,0.00,0.00%,.1,32.74,458265.0
+GM brand drill down - default-celesio,1,39749,39749,39749,0.00,0.00%,.0,7.00,284905.0
+GM brand drill down - Time period -YTD-celesio,1,234,234,234,0.00,0.00%,4.3,1177.01,282030.0
+GM molecule drill down - TIme Period - Month-pheonix,2,13077,7733,18421,5344.00,0.00%,.1,34.21,458427.5
+GM brand drill down-Primary-specialist-celesio,1,288,288,288,0.00,0.00%,3.5,956.02,281943.0
+GM brand drill down-TIme Period-Month-celesio,1,242,242,242,0.00,0.00%,4.1,1138.02,282010.0
+GM molecule drill down - Acute-Chronic-all-pheonix,1,282,282,282,0.00,0.00%,3.5,1585.98,457979.0
+GM molecule drill down -pheonix,1,54294,54294,54294,0.00,0.00%,.0,41.25,2296953.0
+GM brand drill down-TIme Period-prev Month-celesio,1,14602,14602,14602,0.00,0.00%,.1,18.86,281933.0
+GM brand drill down - specialty status-specialty-celesio,1,222,222,222,0.00,0.00%,4.5,1240.13,281917.0
+GM brand drill down- celesio,1,55337,55337,55337,0.00,0.00%,.0,29.86,1694738.0
+ISSD-Generic Molecule-celesio,1,201292,201292,201292,0.00,0.00%,.0,56.32,15063199.0
+GM brand drill down - default-alliance,1,45277,45277,45277,0.00,0.00%,.0,16.07,745247.0
+GM brand drill down - default-pheonix,1,46455,46455,46455,0.00,0.00%,.0,10.25,487411.0
+GM brand drill down - Time period -YTD-alliance,1,39465,39465,39465,0.00,0.00%,.0,18.42,744258.0
+GM brand drill down - specialty status-specialty-alliance,1,350,350,350,0.00,0.00%,2.9,2076.47,744208.0
+GM brand drill down-TIme Period-Month-alliance,1,298,298,298,0.00,0.00%,3.4,2438.85,744220.0
+GM brand drill down-Primary-primary care-alliance,1,334,334,334,0.00,0.00%,3.0,2175.83,744170.0
+GM brand drill down-TIme Period-prev Month-alliance,1,339,339,339,0.00,0.00%,2.9,2138.28,742274.0
+GM brand drill down  - alliance,1,86063,86063,86063,0.00,0.00%,.0,50.60,4464377.0
+ISSD-Generic Molecule -Alliance,1,218835,218835,218835,0.00,0.00%,.0,66.55,18915828.0
+GS first page - defalut - celesio,1,63297,63297,63297,0.00,0.00%,.0,18.16,1177253.0
+GS first page-Time period-QTR-celesio,1,491,491,491,0.00,0.00%,2.0,2337.87,1175446.0
+GM brand drill down - Time period -YTD-pheonix,1,35501,35501,35501,0.00,0.00%,.0,13.31,483751.0
+GM brand drill down - Primary-all-pheonix,1,292,292,292,0.00,0.00%,3.4,1617.84,483746.0
+GM brand drill down - specialty status-specialty-pheonix,1,253,253,253,0.00,0.00%,4.0,1867.37,483784.0
+GM brand drill down-TIme Period-Month-pheonix,1,8407,8407,8407,0.00,0.00%,.1,56.19,483708.0
+GM brand drill down-TIme Period-prev Month-pheonix,1,276,276,276,0.00,0.00%,3.6,1713.86,484378.0
+GM brand drill down  -pheonix,1,91184,91184,91184,0.00,0.00%,.0,31.10,2906778.0
+ISSD-Generic Molecule -pheonix,1,327273,327273,327273,0.00,0.00%,.0,32.15,12663322.0
+GS first page -TIme period-Year ago-celesio,1,28898,28898,28898,0.00,0.00%,.0,39.58,1171118.0
+GS first page - Primary-Primary care- celesio,1,384,384,384,0.00,0.00%,2.6,2978.38,1171147.0
+GS first page -specialty-nonSpecialty-celesio,1,449,449,449,0.00,0.00%,2.2,2547.08,1171087.0
+GS first page - celesio,1,93519,93519,93519,0.00,0.00%,.0,61.20,5866051.0
+GS first page - defalut - alliance,1,51524,51524,51524,0.00,0.00%,.0,23.60,1245011.0
+GS first page-Time period-QTR-alliance,1,449,449,449,0.00,0.00%,2.2,2703.67,1243084.0
+GS first page - defalut -pheonix,1,34020,34020,34020,0.00,0.00%,.0,25.48,887732.0
+GS supplier drill down - default-celesio,1,25912,25912,25912,0.00,0.00%,.0,25.04,664413.0
+GS supplier dril down - Time period-QTR-celesio,1,360,360,360,0.00,0.00%,2.8,1803.18,664726.0
+GS supplier drill down - Time period-Year ago-celesio,1,309,309,309,0.00,0.00%,3.2,2092.02,661950.0
+GS first page -TIme period-Year ago-alliance,1,28836,28836,28836,0.00,0.00%,.0,42.04,1241329.0
+GS first page - Primary-Spacialist- alliance,1,401,401,401,0.00,0.00%,2.5,3023.89,1241680.0
+GS first page -specialty-nonSpecialty-alliance,1,457,457,457,0.00,0.00%,2.2,2652.41,1241241.0
+GS first page - alliance,1,81667,81667,81667,0.00,0.00%,.0,74.21,6212345.0
+GS supplier drill down - GO sorting-celesio,1,30200,30200,30200,0.00,0.00%,.0,21.39,661332.0
+GS supplier drill down - TIme period -Month-celesio,1,316,316,316,0.00,0.00%,3.2,2045.97,662043.0
+GS supplier drill down- Primary-Specialist-celesio,1,529,529,529,0.00,0.00%,1.9,1222.13,662021.0
+GS supplier drill down-celesio,1,57626,57626,57626,0.00,0.00%,.0,67.27,3976485.0
+GS brand drill down - default - celesio,1,3592,3592,3592,0.00,0.00%,.3,166.78,613445.0
+GS Brand drill down - Time Period-YTD-celesio,1,375,375,375,0.00,0.00%,2.7,1591.50,611135.0
+GS Brand drill down - Time Period-MAT-celesio,1,251,251,251,0.00,0.00%,4.0,2386.56,613403.0
+GS first page-Time period-QTR-pheonix,1,38443,38443,38443,0.00,0.00%,.0,22.50,885721.0
+GS brand drill down - time period-Prev month-celesio,1,5354,5354,5354,0.00,0.00%,.2,113.07,619902.0
+GS brand drill down -primary-specialist-celesio,1,294,294,294,0.00,0.00%,3.4,2059.34,619976.0
+GS brand drill down - time period-QTR-celesio,1,285,285,285,0.00,0.00%,3.5,2124.28,619951.0
+GS brand drill down - celesio,1,10151,10151,10151,0.00,0.00%,.1,352.27,3697812.0
+ISSD- Generic Supplier-celesio,1,161296,161296,161296,0.00,0.00%,.0,81.82,13540348.0
+ISSD - Default - UAT - Logout from ISSD,1,529,529,529,0.00,0.00%,1.9,86.58,46900.0
+ISSD - Default - UAT - Logout from DC page,1,298,298,298,0.00,0.00%,3.4,9.01,2749.0
+GS supplier drill down - default-alliance,1,34875,34875,34875,0.00,0.00%,.0,18.81,671734.0
+GS supplier dril down - Time period-Month-alliance,1,332,332,332,0.00,0.00%,3.0,1968.89,669358.0
+GS supplier drill down - Time period-Prev Month-alliance,1,7186,7186,7186,0.00,0.00%,.1,90.98,669496.0
+GS supplier drill down- Primary-all-alliance,1,293,293,293,0.00,0.00%,3.4,2231.49,669518.0
+GS first page -TIme period-Year ago-pheonix,1,17079,17079,17079,0.00,0.00%,.1,50.60,884929.0
+GS first page - Primary-Spacialist-pheonix,1,359,359,359,0.00,0.00%,2.8,2407.07,884877.0
+GS first page -specialty-nonSpecialty-pheonix,1,418,418,418,0.00,0.00%,2.4,2067.36,884898.0
+GS first page - pheonix,1,90319,90319,90319,0.00,0.00%,.0,47.83,4428157.0
+GS supplier drill down - GO sorting-alliance,1,22366,22366,22366,0.00,0.00%,.0,29.26,670078.0
+GS supplier dril down - Time period-QTR-alliance,1,344,344,344,0.00,0.00%,2.9,1906.15,671453.0
+GS supplier drill down-alliance,1,65396,65396,65396,0.00,0.00%,.0,59.97,4021637.0
+GS supplier drill down - default-pheonix,1,24371,24371,24371,0.00,0.00%,.0,19.81,494397.0
+GS brand drill down - default -alliance,1,9638,9638,9638,0.00,0.00%,.1,65.63,647726.0
+GS Brand drill down - Time Period-YTD-alliance,1,7401,7401,7401,0.00,0.00%,.1,85.22,645821.0
+GS Brand drill down - Time Period-MAT-alliance,1,418,418,418,0.00,0.00%,2.4,1508.73,645786.0
+GS brand drill down - time period-Prev month-alliance,1,435,435,435,0.00,0.00%,2.3,1448.81,645358.0
+GS brand drill down -primary-all-alliance,1,420,420,420,0.00,0.00%,2.4,1500.47,645321.0
+GS brand drill down - time period-Month-alliance,1,388,388,388,0.00,0.00%,2.6,1624.43,645405.0
+GS brand drill down -alliance,1,18700,18700,18700,0.00,0.00%,.1,201.41,3875417.0
+ISSD-Generic Supplier-alliance,1,165763,165763,165763,0.00,0.00%,.0,82.97,14109399.0
+ISSD - Default - UAT - Logout from ISSD-Alliance,1,543,543,543,0.00,0.00%,1.8,84.35,46900.0
+GS supplier dril down - Time period-Month-pheonix,1,16473,16473,16473,0.00,0.00%,.1,29.16,491958.0
+ISSD - Default - UAT - Logout from DC page-Alliance,1,297,297,297,0.00,0.00%,3.4,9.04,2749.0
+GS supplier drill down - Time period-Prev Month-pheonix,1,5809,5809,5809,0.00,0.00%,.2,82.62,491439.0
+GS supplier drill down- Primary-all-pheonix,1,253,253,253,0.00,0.00%,4.0,1896.47,491323.0
+GS supplier drill down - GO sorting-pheonix,1,11900,11900,11900,0.00,0.00%,.1,39.81,485131.0
+GS supplier dril down - Time period-QTR-pheonix,1,15080,15080,15080,0.00,0.00%,.1,31.56,487419.0
+GS supplier drill down-pheonix,1,73886,73886,73886,0.00,0.00%,.0,38.84,2941667.0
+GS brand drill down - default -pheonix,1,6187,6187,6187,0.00,0.00%,.2,41.25,261341.0
+GS Brand drill down - Time Period-YTD-pheonix,1,6270,6270,6270,0.00,0.00%,.2,40.32,258884.0
+GS Brand drill down - Time Period-MAT-pheonix,1,5908,5908,5908,0.00,0.00%,.2,42.80,258953.0
+GS brand drill down - time period-Prev month-pheonix,1,4869,4869,4869,0.00,0.00%,.2,51.92,258881.0
+GS brand drill down -primary-all-pheonix,1,269,269,269,0.00,0.00%,3.7,939.67,258839.0
+GS brand drill down - time period-Month-pheonix,1,6053,6053,6053,0.00,0.00%,.2,41.75,258785.0
+GS brand drill down -pheonix,1,29556,29556,29556,0.00,0.00%,.0,51.17,1555683.0
+ISSD-Generic Supplier-pheonix,1,193761,193761,193761,0.00,0.00%,.0,44.90,8925507.0
+ISSD - Default - UAT - Logout from ISSD-Pheonix,1,483,483,483,0.00,0.00%,2.1,94.83,46900.0
+ISSD - Default - UAT - Logout from DC page-Pheonix,1,289,289,289,0.00,0.00%,3.5,9.29,2749.0
+TOTAL,210,30677,222,332426,56605.17,0.95%,.2,374.33,1553955.6

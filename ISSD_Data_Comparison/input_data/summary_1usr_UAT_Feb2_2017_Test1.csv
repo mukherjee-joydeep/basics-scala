@@ -1,0 +1,67 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes,,
+ISSD-Open URL,1,1579,1579,1579,0,0.00%,0.6,5.04,8146,,1.579
+ISSD-DC page,1,2468,2468,2468,0,0.00%,0.4,712.9,1801663,,2.468
+ISSD-Dashboard,1,45060,45060,45060,0,0.00%,0,52.5,2422263,,45.06
+RxBrand first page - default,1,30931,30931,30931,0,0.00%,0,20.58,651725,,30.931
+SO sorting - RxBrands first page,1,27000,27000,27000,0,0.00%,0,18.38,508116,,27
+Time Period - Month- Rxbrand first page,1,363,363,363,0,0.00%,2.8,1370.91,509585,,0.363
+Time Period-Prev Month - RxBrands first page,1,4398,4398,4398,0,0.00%,0.2,114.12,513967,,4.398
+Sub-segment-specialist-Rxbrands first page,1,370,370,370,0,0.00%,2.7,1356.56,513974,,0.37
+sub-segment-speciality-Rxbrand first page,1,364,364,364,0,0.00%,2.7,1378.96,513987,,0.364
+SO sorting-Rxbrand first page - Desc,1,21057,21057,21057,0,0.00%,0,31.42,677545,,21.057
+RxB first page,1,84483,84483,84483,0,0.00%,0,44.89,3888899,,84.483
+RxB drill down-default,1,22919,22919,22919,0,0.00%,0,17.29,405764,,22.919
+RxB drill down - SO sorting,1,14811,14811,14811,0,0.00%,0.1,28.99,439619,,14.811
+Time Period - QTR - RxB drill down,1,406,406,406,0,0.00%,2.5,1060.53,440908,,0.406
+Time Period - Year ago - RxB drill down,1,5805,5805,5805,0,0.00%,0.2,73.61,437580,,5.805
+Brands drill down,1,43941,43941,43941,0,0.00%,0,38.26,1723871,,43.941
+ISSD-RxBrands ,1,128424,128424,128424,0,0.00%,0,42.62,5612770,,128.424
+GM first page - default -Celesio,1,23164,23164,23164,0,0.00%,0,44.04,1044582,,23.164
+GM first page - SO sorting - Celesio,1,17285,17285,17285,0,0.00%,0.1,61.45,1087612,,17.285
+GM first page - Time Period-Month-Celesio,1,385,385,385,0,0.00%,2.6,2762.01,1088894,,0.385
+GM first page - Time Period-Prev Month-celesio,1,5627,5627,5627,0,0.00%,0.2,189.64,1092702,,5.627
+GM first page - SO sorting-Desc-Celesio,1,15545,15545,15545,0,0.00%,0.1,62.55,995601,,15.545
+GM first page - Primary-Specialist-celesio,1,522,522,522,0,0.00%,1.9,1865.13,996966,,0.522
+GM first page - Time period-QTR-celesio,1,399,399,399,0,0.00%,2.5,2439.94,996899,,0.399
+GM first page - Acute-Chronic-celesio,1,380,380,380,0,0.00%,2.6,2562.15,996984,,0.38
+GM first page - TIme Period-Year Ago-Celesio,1,4378,4378,4378,0,0.00%,0.2,221.57,993302,,4.378
+GM first page - TIme Period-YTD-Celesio,1,452,452,452,0,0.00%,2.2,2146.03,993286,,0.452
+GM first page - celesio,1,68137,68137,68137,0,0.00%,0,146.88,10286828,,68.137
+GM molecule drill down - default-Celesio,1,7553,7553,7553,0,0.00%,0.1,79.32,613490,,7.553
+GM molecule drill down - SO sorting-Celesio,1,7921,7921,7921,0,0.00%,0.1,75.46,612078,,7.921
+GM molecule drill down - TIme Period - Month-celesio,1,454,454,454,0,0.00%,2.2,1319.57,613464,,0.454
+GM molecule drill down - TIme Period-Prev Month - celesio,1,4867,4867,4867,0,0.00%,0.2,124.68,621393,,4.867
+GM molecule drill down - Acute-Chronic-all-celesio,1,331,331,331,0,0.00%,3,1833.11,621321,,0.331
+GM molecule drill down - celesio,1,21126,21126,21126,0,0.00%,0,142.15,3081746,,21.126
+GM brand drill down - default-celesio,1,24930,24930,24930,0,0.00%,0,11.16,285005,,24.93
+GM brand drill down - Time period -YTD-celesio,1,236,236,236,0,0.00%,4.2,1166.94,282007,,0.236
+GM brand drill down-Primary-specialist-celesio,1,233,233,233,0,0.00%,4.3,1181.98,282010,,0.233
+GM brand drill down-TIme Period-Month-celesio,1,216,216,216,0,0.00%,4.6,1275.23,282060,,0.216
+GM brand drill down-TIme Period-prev Month-celesio,1,5582,5582,5582,0,0.00%,0.2,49.31,281879,,5.582
+GM brand drill down - specialty status-specialty-celesio,1,271,271,271,0,0.00%,3.7,1016.22,282006,,0.271
+GM brand drill down- celesio,1,31468,31468,31468,0,0.00%,0,52.51,1694967,,31.468
+ISSD-Generic Molecule-celesio,1,120731,120731,120731,0,0.00%,0,121.48,15063541,,120.731
+GS first page - defalut - celesio,1,49107,49107,49107,0,0.00%,0,23.41,1177378,,49.107
+GS first page-Time period-QTR-celesio,1,530,530,530,0,0.00%,1.9,2166.42,1175758,,0.53
+GS first page -TIme period-Year ago-celesio,1,22434,22434,22434,0,0.00%,0,50.98,1171178,,22.434
+GS first page - Primary-Primary care- celesio,1,390,390,390,0,0.00%,2.6,2932.4,1171082,,0.39
+GS first page -specialty-nonSpecialty-celesio,1,398,398,398,0,0.00%,2.5,2873.61,1171144,,0.398
+GS first page - celesio,1,72859,72859,72859,0,0.00%,0,78.57,5866540,,72.859
+GS supplier drill down - default-celesio,1,21944,21944,21944,0,0.00%,0,29.57,664378,,21.944
+GS supplier dril down - Time period-QTR-celesio,1,299,299,299,0,0.00%,3.3,2169.75,664325,,0.299
+GS supplier drill down - Time period-Year ago-celesio,1,285,285,285,0,0.00%,3.5,2268.46,662028,,0.285
+GS supplier drill down - GO sorting-celesio,1,17714,17714,17714,0,0.00%,0.1,36.46,661331,,17.714
+GS supplier drill down - TIme period -Month-celesio,1,472,472,472,0,0.00%,2.1,1369.72,662026,,0.472
+GS supplier drill down- Primary-Specialist-celesio,1,260,260,260,0,0.00%,3.8,2486.45,661992,,0.26
+GS supplier drill down-celesio,1,40974,40974,40974,0,0.00%,0,94.6,3976080,,40.974
+GS brand drill down - default - celesio,1,2880,2880,2880,0,0.00%,0.3,208.01,613451,,2.88
+GS Brand drill down - Time Period-YTD-celesio,1,341,341,341,0,0.00%,2.9,1750.13,611117,,0.341
+GS Brand drill down - Time Period-MAT-celesio,1,362,362,362,0,0.00%,2.8,1654.96,613473,,0.362
+GS brand drill down - time period-Prev month-celesio,1,4332,4332,4332,0,0.00%,0.2,139.75,619924,,4.332
+GS brand drill down -primary-specialist-celesio,1,334,334,334,0,0.00%,3,1812.67,619963,,0.334
+GS brand drill down - time period-QTR-celesio,1,379,379,379,0,0.00%,2.6,1597.62,620028,,0.379
+GS brand drill down - celesio,1,8628,8628,8628,0,0.00%,0.1,415.28,3697956,,8.628
+ISSD- Generic Supplier-celesio,1,122461,122461,122461,0,0.00%,0,107.79,13540576,,122.461
+ISSD - Default - UAT - Logout from ISSD,1,567,567,567,0,0.00%,1.8,80.78,46900,,0.567
+ISSD - Default - UAT - Logout from DC page,1,279,279,279,0,0.00%,3.6,9.62,2749,,0.279
+TOTAL,65,17920,216,128424,29879.81,0.00%,0.2,247.21,1645113.6,,
